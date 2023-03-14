@@ -1,0 +1,35 @@
+# Problem Definition
+
+## Business Problem:
+Bank X owns both the lending and deposit portfolio. A portfolio includes the following instruments:
+
+Deposit
+
+Loan
+
+Credit cards
+
+Mortgage
+
+Now, Bank X is looking to expand into multiple sectors. However, to meet regulatory constraints, the bank can only expand lending products if it is able to increase deposits. Hence, the core business problem is to somehow increase the deposit balance.
+
+So, the bank has employed you as a consultant to research the best strategy to increase deposits with a limited amount of investments. Try to decompose the problem and convert it into a data problem.
+
+Here’s a hint to get you started:
+
+Total Balance = Balance/customer * #customers.
+
+The bank’s customers are basically at 3 stages:
+
+•	Newly acquired customers
+
+•	Existing customer who are here to stay, and
+
+•	Customers who are about to leave
+
+Each of these segments needs a different type of strategy to either increase the number of customers or Balance/customer. The acquisition portfolio might need promotional balance to open a new account or a balance hurdle. An existing customer might need cross-sell or up-sell campaigns. Customers about to about to leave the bank might need a retention campaign.
+
+Additional Info:
+
+Now, the question is - which of these three has the highest ROI? Turns out that any customer saved brings in 10X the value than any new customer with the same investment. Additionally, any customer saved will retain at least 5X the balance that we can increase of our existing portfolio. With this additional information, try to refine the scope of the problem.
+
